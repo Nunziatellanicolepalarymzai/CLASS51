@@ -1,0 +1,39 @@
+h1{
+
+    color:#DD00CC
+    
+    }
+    
+    *{
+    background-color:#AA99EE ;
+    
+    border:solid
+    
+    }
+    
+    p{
+    
+    color:#BBCCAA
+    
+    
+    }
+.header{
+
+background-color:#119922
+
+}
+
+.grid{
+
+    background-color:#885522
+
+
+}
+
+.footer{
+
+
+display:flex,
+
+
+}
